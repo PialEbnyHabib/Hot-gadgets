@@ -9,6 +9,11 @@
     padding-bottom: 15px;
 }
 
+.carousel-inner{
+
+    padding-bottom: 40px;
+}
+
 .button{
 
     background-color: rgb(12, 12, 12);
@@ -18,4 +23,12 @@
     width: 150px;
     font-size: 20px;
 
+}
+
+.smartphone{
+    padding-bottom: 10px;
+}
+
+.info{
+    float: left;
 }
